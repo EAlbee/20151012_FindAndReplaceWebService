@@ -1,0 +1,12 @@
+This is a file to use to test out the find and replace application
+
+The next two lines should have values swapped in:
+<<COMPANY_NAME>><<USER_NAME>><<ID>><<CONTACT_NAME>>
+<<COMPANY_NAME>><<USER_NAME>><<ID>><<CONTACT_NAME>>
+
+No find and replace should happen on the next line
+COMPANY_NAME USER_NAME ID CONTACT_NAME
+
+More testing with the same field listed multiple times on a single line <<USER_NAME>> <<USER_NAME>>
+
+Add more of your own tests here...
